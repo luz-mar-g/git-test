@@ -1,0 +1,24 @@
+{
+  "name": "testgit",
+  "version": "1.0.0",
+  "description": "test to learn ",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luz-mar-g/git-test.git"
+  },
+  "author": "Luz Orozco",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luz-mar-g/git-test/issues"
+  },
+  "homepage": "https://github.com/luz-mar-g/git-test#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
